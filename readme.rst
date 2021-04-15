@@ -1,4 +1,4 @@
-CSCI 2370
+CSCI 2270
 =========
 
 * Create an account on a git provider service
